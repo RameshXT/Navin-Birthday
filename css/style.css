@@ -1253,11 +1253,11 @@ img {
 
 ::-webkit-scrollbar-thumb {
   background-color: #20c997; /* Greenish scrollbar */
-  border-radius: 5px;
+  border-radius: 15px;
 }
 
 ::-webkit-scrollbar-track {
-  background-color: #f1f1f1; /* Light track */
+  background-color: #000000; /* Light track */
 }
 
 /* Trick to simulate arrow color (not fully supported in modern browsers) */
